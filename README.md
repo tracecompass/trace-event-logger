@@ -1,3 +1,6 @@
+# This is moved to https://github.com/eclipse-tracecompass/trace-event-logger
+
+
 # Trace Event Logger
 
 This logger is based on JUL to allow fast JSON traces to be written to disk. It is not lockless or nanosecond precise, but is fast and simple to use and configure.
